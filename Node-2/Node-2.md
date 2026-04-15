@@ -24,4 +24,5 @@ E = d \times E_{\text{km}}
 $$
 以上为查询学习内容，不涉及现实数据（$\alpha \beta \gamma$均为模拟值）\
 在这个模拟（Node 2）中，我设计了：energy_per_km，energy_consumed，plot_energy_curves三个函数用于实现能耗模型的计算和显示 \
-[Code is here](Energy_test.py)
+[Code is here](Energy_test.py) \
+![Graph is here](energy_curves_quadratic.png)

@@ -1,0 +1,17 @@
+{
+  "depot": {"id": 0, "x": 0, "y": 0},
+  "customers": [
+    {"id": 1, "x": 5, "y": 0, "demand_kg": 100},
+    {"id": 2, "x": 8, "y": 4, "demand_kg": 150},
+    {"id": 3, "x": 2, "y": 7, "demand_kg": 80}
+  ],
+  "swap_stations": [
+    {"id": 4, "x": 6, "y": 3},
+    {"id": 5, "x": 3, "y": 4}
+  ],
+  "vehicle": {
+    "battery_capacity_kwh": 40,
+    "initial_soc_kwh": 40,
+    "energy_per_km": 0.3
+  }
+}
