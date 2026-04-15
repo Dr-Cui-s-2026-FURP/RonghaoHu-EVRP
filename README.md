@@ -25,7 +25,7 @@
     [Node 2](Node-2/Node-2.md)
 - [ ] **Node 3**：使用精确求解器（PuLP/Gurobi）求解小规模网络（1 depot + 2 swap stations + 8 customers）
     Node 3已上传， [ ] **Node 3 未完成**，目前仅有一个假用例，看看就好
-    [Node 2](Node-2/Node-2.md)
+    [Node 3](Node-3/Node-3.md)
 ### 第二阶段：核心算法实现
 - [ ] **Node 4**：实现元启发式框架（如 ALNS、GA、模拟退火），先求解经典 VRP 基准  
 - [ ] **Node 5**：融入换电逻辑（惩罚缺电路线，奖励高效换电）  
